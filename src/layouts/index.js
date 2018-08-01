@@ -17,11 +17,11 @@ const Layout = ({ children, data }) => (
             title={data.site.siteMetadata.title}
             meta={[
                 { name: 'description', content: "Ryan Hoffmann's blog" },
-                { name: 'keywords', content: 'sample, something' },
+                { name: 'keywords', content: "Ryan Hoffmann's blog"},
             ]}
         />
         <Header siteTitle={data.site.siteMetadata.title} />
-            <header style={{ marginBottom: `1.5rem` }}>
+            <header style={{ marginBottom: `3rem` }}>
       <ul style={{ listStyle: `none`, float: `right` }}>
         <ListLink to="/">Home</ListLink>
                 <ListLink to="/intro-post/">About</ListLink>

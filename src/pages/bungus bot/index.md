@@ -8,7 +8,7 @@ Here you will find all the information you need about the Bungus Chungus discord
             <img src="https://discordbots.org/api/widget/185124264091844608.svg" alt="Bungus Chungus" />
         </a>
 
-If you don't already know Bungus Chungus is a multi-purpose discord bot I've been programming since 2016. 
+If you don't already know Bungus Chungus is a multi-purpose discord bot that I've been working on since 2016. 
 It has many features that include:
 
 

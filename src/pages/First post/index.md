@@ -11,4 +11,3 @@ The goal of this blog is to demonstrate what I've been programming and otherwise
 Up until now I've been mostly working with node.js with a little bit of python and java here and there. 
 Right now im currently learning html and css by working on this blog.
 
-

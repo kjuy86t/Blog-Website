@@ -17,7 +17,7 @@ const Layout = ({ children, data }) => (
             title={data.site.siteMetadata.title}
             meta={[
                 { name: 'description', content: "Ryan Hoffmann's blog" },
-                { name: 'keywords', content: "Ryan Hoffmann's blog, something" },
+                { name: 'keywords', content: 'sample, something' },
             ]}
         />
         <Header siteTitle={data.site.siteMetadata.title} />
@@ -25,7 +25,8 @@ const Layout = ({ children, data }) => (
       <ul style={{ listStyle: `none`, float: `right` }}>
         <ListLink to="/">Home</ListLink>
                 <ListLink to="/intro-post/">About</ListLink>
-        <ListLink to="/contact/">Contact</ListLink>
+                <ListLink to="/contact/">Contact</ListLink>
+               
       </ul>
     </header>
         <div
@@ -35,7 +36,10 @@ const Layout = ({ children, data }) => (
                 padding: '0px 1.0875rem 1.45rem',
                 paddingTop: 0,
             }}
+
         >
+            
+
             {children()}
         </div>
     </div>

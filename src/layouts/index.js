@@ -48,7 +48,7 @@ const Layout = ({ children, data }) => (
                 <p>
                     <center>
                 <a href="https://github.com/hoffay">
-                    <img border="0" alt="W3Schools" src="https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg" width="160" height="90">
+                    <img border="0" alt="github" src="https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg" width="160" height="90">
                     </img>
                         </a>
                     </center>

@@ -17,18 +17,18 @@ const Layout = ({ children, data }) => (
             title={data.site.siteMetadata.title}
             meta={[
                 { name: 'description', content: "Ryan Hoffmann's blog" },
-                { name: 'keywords', content: "Ryan Hoffmann's blog"},
+                { name: 'keywords', content: "Ryan Hoffmann's blog" },
             ]}
         />
         <Header siteTitle={data.site.siteMetadata.title} />
-            <header style={{ marginBottom: `3rem` }}>
-      <ul style={{ listStyle: `none`, float: `right` }}>
-        <ListLink to="/">Home</ListLink>
+        <header style={{ marginBottom: `3rem` }}>
+            <ul style={{ listStyle: `none`, float: `right` }}>
+                <ListLink to="/">Home</ListLink>
                 <ListLink to="/intro-post/">About</ListLink>
                 <ListLink to="/contact/">Contact</ListLink>
-               
-      </ul>
-    </header>
+
+            </ul>
+        </header>
         <div
             style={{
                 margin: '0 auto',
@@ -38,10 +38,23 @@ const Layout = ({ children, data }) => (
             }}
 
         >
-            
+
 
             {children()}
         </div>
+        <footer>
+            <footer style={{ marginBottom: `15rem` }}/>
+            <ul style={{ listStyle: `none`, float: `center` }}>
+                <p>
+                    <center>
+                <a href="https://github.com/hoffay">
+                    <img border="0" alt="W3Schools" src="https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg" width="160" height="90">
+                    </img>
+                        </a>
+                    </center>
+            </p>
+        </ul>
+        </footer>
     </div>
 )
 

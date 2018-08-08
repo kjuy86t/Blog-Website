@@ -1,4 +1,4 @@
-import favicon from '../images/favicon.png';
+import favicon from '../src/favicon.png';
 
 <Helmet
     title="..."
@@ -7,6 +7,6 @@ import favicon from '../images/favicon.png';
         { name: 'keywords', content: '....' },
     ]}
     link={[
-        { rel: 'shortcut icon', type: './src/bungosquare.png', href: `${favicon}` }
+        { rel: 'shortcut icon', type: 'favicon.png', href: `${favicon}` }
     ]}
 />

@@ -1,13 +1,17 @@
 ---
 path: "/Bungus-post"
 date: "2018-07-31T17:12:33.962Z"
+<center>
 title: "Bungus Discord Bot"
+</center>
 ---
+<center>
 Here you will find all the information you need about the Bungus Chungus discord bot.
+
 <a href="https://discordbots.org/bot/185124264091844608" >
             <img src="https://discordbots.org/api/widget/185124264091844608.svg" alt="Bungus Chungus" />
         </a>
-
+		</center>
 If you don't already know Bungus Chungus is a multi-purpose discord bot that I've been working on since 2016. 
 It has many features that include:
 

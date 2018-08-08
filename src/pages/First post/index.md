@@ -1,7 +1,7 @@
 ---
 path: "/intro-post"
 date: "2018-07-31T16:12:33.962Z"
-title: "My First Blog Post"
+title: "My Blog Post"
 ---
 
 

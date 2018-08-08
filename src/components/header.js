@@ -4,7 +4,6 @@ const Header = ({ siteTitle }) => (
   <div
     style={{
       background: 'orange',
-      marginBottom: '1.45rem',
     }}
   >
     <div
@@ -19,7 +18,8 @@ const Header = ({ siteTitle }) => (
           to="/"
           style={{
             color: 'white',
-            textDecoration: 'none',
+              textDecoration: 'none',
+
           }}
         >
           {siteTitle}

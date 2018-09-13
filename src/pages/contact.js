@@ -10,7 +10,7 @@ const contact = () => (
             <b><a href="mailto:ryanhoffmail@gmail.com">ryanhoffmail@gmail.com</a></b>
             <br />
             Twitter:<br />
-            <b><a href="https://twitter.com/Hoffdaddyflex">https://twitter.com/Hoffdaddyflex</a></b><br />
+            <b><a href="https://twitter.com/Hoffdaddyflex">https://twitter.com/ryanhoffmann19</a></b><br />
             Github:<br />
             <b><a href="https://github.com/hoffay/">https://github.com/hoffay/</a></b>
 

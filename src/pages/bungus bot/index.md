@@ -2,9 +2,11 @@
 path: "/Bungus-post"
 date: "2018-07-31T17:12:33.962Z"
 
-title: "Bungus Discord Bot"
+title: "Bungus Chungus Discord Bot"
 
 ---
+
+
 <center>
 Here you will find all the information you need about the Bungus Chungus discord bot.
 

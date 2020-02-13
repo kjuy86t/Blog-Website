@@ -5,8 +5,7 @@ const mackenzie = () => (
     <div>
         <center>
             <h1>Will Mackenzie be on time for spanish today?</h1>
-            <h1>""
-            </h1>
+            <br><br>
             <b>  
                 <font size="8">
                     <p>No</p>

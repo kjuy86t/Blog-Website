@@ -10,7 +10,7 @@ const mackenzie = () => (
             <b>  
                 <font size="8">
                     <p>No</p>
-                    <img src="https://images.discordapp.net/avatars/185124264091844608/d027d02b9deb091fa0e0f9a11c3a4151.png?size=512" alt="No" width="256" height="256" />
+                    <img src="https://images.discordapp.net/avatars/185124264091844608/d027d02b9deb091fa0e0f9a11c3a4151.png?size=256" alt="No" />
                 </font>
             </b>
         </center>
